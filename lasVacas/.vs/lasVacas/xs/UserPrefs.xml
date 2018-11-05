@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{1DC8C317-F8AD-4295-9A47-9D40F72C6DF8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="lasVacas/Program.cs">
+    <Files>
+      <File FileName="lasVacas/Program.cs" Line="45" Column="40" />
+      <File FileName="../PE.3_GarciaGonzalez/PE.3_GarciaGonzalez/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.lasVacas PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

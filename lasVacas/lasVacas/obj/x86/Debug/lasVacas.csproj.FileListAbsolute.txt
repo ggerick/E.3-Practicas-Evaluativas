@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/lasVacas/lasVacas/bin/Debug/lasVacas.exe
+/Users/AlanGarcia/Projects/lasVacas/lasVacas/bin/Debug/lasVacas.pdb
+/Users/AlanGarcia/Projects/lasVacas/lasVacas/obj/x86/Debug/lasVacas.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/lasVacas/lasVacas/obj/x86/Debug/lasVacas.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/lasVacas/lasVacas/obj/x86/Debug/lasVacas.exe
+/Users/AlanGarcia/Projects/lasVacas/lasVacas/obj/x86/Debug/lasVacas.pdb

@@ -1,0 +1,6 @@
+/Users/AlanGarcia/Projects/PE.3_GarciaGonzalez/PE.3_GarciaGonzalez/bin/Debug/PE.3_GarciaGonzalez.exe
+/Users/AlanGarcia/Projects/PE.3_GarciaGonzalez/PE.3_GarciaGonzalez/bin/Debug/PE.3_GarciaGonzalez.pdb
+/Users/AlanGarcia/Projects/PE.3_GarciaGonzalez/PE.3_GarciaGonzalez/obj/x86/Debug/PE.3_GarciaGonzalez.csprojAssemblyReference.cache
+/Users/AlanGarcia/Projects/PE.3_GarciaGonzalez/PE.3_GarciaGonzalez/obj/x86/Debug/PE.3_GarciaGonzalez.csproj.CoreCompileInputs.cache
+/Users/AlanGarcia/Projects/PE.3_GarciaGonzalez/PE.3_GarciaGonzalez/obj/x86/Debug/PE.3_GarciaGonzalez.exe
+/Users/AlanGarcia/Projects/PE.3_GarciaGonzalez/PE.3_GarciaGonzalez/obj/x86/Debug/PE.3_GarciaGonzalez.pdb
